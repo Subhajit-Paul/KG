@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Creds
+*.env
+src/possible-haven-475113-u9-a8ef6b029ee9.json
+session-*.json
+
+*parsetab.py
